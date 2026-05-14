@@ -1,5 +1,12 @@
 # Последний звонок
 
+### **Полезные ссылки**
+
+[Сценарий Google Docs](https://docs.google.com/document/d/16CBE9K90F0ElEICO4jYc76M5_ktJ1SLaLda0XzR8Smg/edit?usp=sharing)
+[Сценарий PDF](https://disk.yandex.ru/d/MIyY0dj6c3JHKw)
+[Расписание Google Sheets](https://docs.google.com/spreadsheets/d/1OUa6bWPzxrXqFVP-HDhNV6BvqM5GGYhU1UlpSJIK78g/edit?usp=sharing)
+[Исходники GitHub](https://github.com/sweethedgehog/last_ring_bell)
+
 ### **Список задач**
 
 - Расписать костюмы
@@ -304,7 +311,7 @@ TODO: диалоги лицеистов, где они понимают, что 
 
 TODO: диалоги, как расспрашивают пираты
 
-Одновременно все пираты появляются (должен возникнуть эффект внезапности, отовсюду). Они  движутся в сторону сцены.
+Одновременно все пираты появляются (должен возникнуть эффект внезапности, отовсюду). Они движутся в сторону сцены.
 
 > **(Пират)** Вы сопляки, вы не сможете нас победить!
 
